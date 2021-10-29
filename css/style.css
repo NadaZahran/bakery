@@ -1,0 +1,186 @@
+header{
+    max-height: 100vh;
+}
+.carousel-item img{
+  height: 34rem;
+  width: auto;
+  
+}
+.nav-item {
+  margin-left: 60px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.nav-item:hover{
+  text-decoration: underline;
+}
+.navbar-brand{
+  margin-left: 50px;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+#element{
+  background-color: white;
+}
+.container2{
+  padding-top: 40px;
+}
+.img1{
+margin-left: 220px;
+  width: 400px;
+  height: 400px;
+}
+.item{
+  margin-right: 150px;
+  margin-top: 90px;
+}
+.name{
+text-transform: uppercase;
+letter-spacing: 3px;
+}
+.info{
+  color: gray;
+  font-size: 15px;
+}
+.btn{
+  border: solid 1px #C5805A;
+ margin-top: 10px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 14px;
+ background-color: #C5805A;
+}
+.img2{
+  margin-right: 10px;
+    width: 450px;
+    height: 350px;
+  }
+  .item2{
+    margin-left: 150px;
+    margin-top: 90px;
+    text-align: right;
+  }
+  .container3{
+    height: 80px;
+    background-color: #C5805A;
+    display: flex;
+    justify-content: space-around 20px;
+  }
+  .order{
+    padding-top: 30px;
+    padding-left: 300px;
+    color: white;
+    font-size: 17px;
+  }
+  
+  .btn2{
+    border: solid 1px #C5805A;
+   margin-top: 30px;
+   margin-left: 20px;
+    border-radius: 8px;
+    color: #C5805A;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: white;
+    padding: 7px 15px;
+  }
+  .button{
+    padding-top: 30px;
+  }
+  footer{
+    height: 290px;
+    background-color: #232323;
+  }
+  
+  .col1{
+    padding-top: 50px;
+    padding-left: 30px;
+  }
+  .col1 h2{
+    color: white ;
+    font-family: 'Pacifico', cursive;
+  }
+   h6{
+    color: rgba(145, 143, 143,.7);
+    font-size: 14px;
+  }
+  
+  .follow{
+    color: #fffdfdcb;
+    font-size: 15px;
+    font-family: 'Pacifico', cursive;
+    padding-top: 10px;
+  }
+  .col1 i{
+    color: #fffdfdcb;
+  }
+  .icons{
+    padding-top: 3px;
+    display: inline-block;
+    word-spacing: 10px;
+  }
+  .twitter{
+    padding-top: 50px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 19px;
+    padding-left: 30px;
+  }
+  .tweet{
+    color: rgba(145, 143, 143,.7);
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 14px;
+  }
+  .tweet i{
+    color: #E2BF64;
+  }
+  .photos{
+    padding-top: 5px;
+    padding-left: 30px;
+  }
+  .photos img{
+    width: 80px;
+    height: 70px;
+  }
+  .box{
+    border: none;
+    padding-top: 5px;
+    padding-left: 30px;
+  }
+  button{
+    padding: 5px 9px;
+   background-color:#E2BF64 ;
+   color: white;
+   font-size: 13px;
+   border: none;
+
+  }
+  .sign{
+    padding-left: 30px;
+    padding-right: 8px;
+    padding-top: 30px;
+  }
+  hr{
+    width: 100px;
+    margin: 15px 90px;
+    border: 1px solid #E2BF64  ;
+    background-color: #E2BF64 ;
+    border-radius: 2px;
+}
+.contact{
+  padding-left: 30px; 
+}
+span{
+  color:#e2be64c5 ;
+  padding-left: 2px;
+}
+  
+  
+
+  
+
+  
+
